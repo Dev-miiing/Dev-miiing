@@ -4,7 +4,7 @@
     
 <br />
 <h2 align="left"> Technologies and Tools I use 🛠️ </h2>
-<img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="150" style="margin-right: 5px;" >
+<img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="100" style="margin-right: 5px;" >
 <br />
 <h2 align="left"> Let's get connected ❤️ </h2>
 <a href="https://www.instagram.com/dev_miiing">
