@@ -1,24 +1,20 @@
-## Welcome to my page 🙌🏻💖
-
-<p>I'm Min Seo, Backend developer from <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="15"/> <b>Korea</b>, currently living in <b>Seoul</b></p>
-
+<h2 align="left"> Welcome to my page 🙌🏻💖 </h2>
+<p> I'm Min Seo, Backend developer:computer: from <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="15"/> <b>Korea</b>, currently living in <b>Seoul</b> </p>
 <br />
-<h2> Technologies and Tools I use 🛠️ </h2>
+<h2 align="left"> Technologies and Tools I use 🛠️ </h2>
+<br />
+<h2 align="left"> Let's get connected ❤️ </h2>
+<a href="https://www.instagram.com/dev_miiing">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a>
+<a href="https://open.kakao.com/o/sg0p6Pzf">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+</a>
+<a href="https://velog.io/@@dev_miiing">
+    <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+</a>
+<br />  
 
-<!--
-**Dev-miiing/Dev-miiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 <p align="center">
   <a href="https://github.com/Dev-miiing" title="GitHub Dev-miiing">
