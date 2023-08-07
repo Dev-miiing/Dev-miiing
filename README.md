@@ -4,7 +4,7 @@
     
 <br />
 <h2 align="left"> Technologies and Tools I use 🛠️ </h2>
-<img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="100" style="margin-right: 5px;" >
+<img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="150" style="margin-right: 5px;" >
 <br />
 <h2 align="left"> Let's get connected ❤️ </h2>
 <a href="https://www.instagram.com/dev_miiing">
@@ -16,7 +16,10 @@
 <a href="https://velog.io/@dev_miiing">
     <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
 </a>
-<br />  
+<br />
+<br />
+<img src=https://github.com/Dev-miiing/Dev-miiing/assets/139543251/16bb97e3-d4ef-4ef8-b13f-850f0a392408" width="340" style="margin-right: 5px;" >
+<br />
 
 ---
 <p align="center">
