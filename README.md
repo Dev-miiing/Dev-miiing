@@ -1,4 +1,9 @@
-### Hi I'm MinSeo 👋
+## Welcome to my page 🙌🏻💖
+
+<p>I'm Min Seo, Backend developer from <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="15"/> <b>Korea</b>, currently living in <b>Seoul</b></p>
+
+<br />
+<h2> Technologies and Tools I use 🛠️ </h2>
 
 <!--
 **Dev-miiing/Dev-miiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
