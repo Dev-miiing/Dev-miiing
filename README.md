@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Dev-miiing" title="GitHub Dev-miiing">
     <img src="https://img.shields.io/github/followers/Dev-miiing?label=follow&style=social" alt-text="GitHub Dev-miiing" height="30"/>
   </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="드림코딩 by 엘리">
+  <a href="https://www.youtube.com/@mongseo1124" title="Dev-miiing by 몽서">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCCk9s6h1ze70lbq_xyHgbdw?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
