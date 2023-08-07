@@ -3,24 +3,20 @@
     Backend developer:computer: from <b>Seoul</b>, <b>Korea</b> <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="15"/></p> 
 <h2 align="left"> Technologies and Tools I use 🛠️ </h2>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-<!-- Frontend -->
-<p><strong>Frontend</strong></p>
+
+<!-- Language -->
+<p><strong>Language</strong></p>
 <div>
-    
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white)  
 </div>
-<!-- Backend -->
-<p><strong>Backend</strong></p>
-<div>
-    
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-</div>
+
 <!-- Database -->
 <p><strong>Database</strong></p>
 <div>
@@ -28,21 +24,7 @@
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-<!-- Server -->
-<p><strong>Server</strong></p>
-<div>
-    
-![Apache](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-</div>
-<!-- Development Tools -->
-<p><strong>Development Tools</strong></p>
-<div>
-    
-![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-</div>
+
 <!-- Framework -->
 <p><strong>Framework</strong></p>
 <div>
@@ -51,16 +33,24 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
-<!-- Version Control -->
-<p><strong>Version Control</strong></p>
+
+<!-- Server -->
+<p><strong>Server</strong></p>
 <div>
     
+![Apache](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
+
+<!-- Tools -->
+<p><strong>Tools</strong></p>
+<div>
+    
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
-<!-- Communication -->
-<p><strong>Communication</strong></p>
-<div>
 </div>
         
 <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="100" style="margin-right: 5px;" >
