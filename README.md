@@ -1,12 +1,10 @@
 <h2 align="left"> Welcome to my page🥰 </h2>
-<div style="display: flex;">
-     <p> Hi there! I'm Min Seo<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="16"><br />
+<p> Hi there! I'm Min Seo<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="16"><br />
     Backend developer:computer: from <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="15"/> <b>Korea</b>, currently living in <b>Seoul</b> </p>
-    <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="70" style="margin-right: 5px;" >
-</div>
-
+    
 <br />
 <h2 align="left"> Technologies and Tools I use 🛠️ </h2>
+<img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="100" style="margin-right: 5px;" >
 <br />
 <h2 align="left"> Let's get connected ❤️ </h2>
 <a href="https://www.instagram.com/dev_miiing">
