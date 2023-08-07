@@ -61,13 +61,13 @@
 </a>
 <br />
 <br />
+<div>
 <img src=https://github.com/Dev-miiing/Dev-miiing/assets/139543251/16bb97e3-d4ef-4ef8-b13f-850f0a392408" width="343" style="margin-right: 5px;" >
 <img src=https://github.com/Dev-miiing/Dev-miiing/assets/139543251/ac13ca56-9f6a-44de-ad56-379318410acc  width="343><br />
+</div>
 <br />
 
-  
 ---
-
 
 <p align="center">
   <a href="https://github.com/Dev-miiing" title="GitHub Dev-miiing">
