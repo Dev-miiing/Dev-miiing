@@ -15,43 +15,29 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <!-- Language -->
-<p><strong>Language</strong></p>
+<p><strong>Language & Database</strong></p>
 <div>
-
+  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white)  
-</div>
-
-<!-- Database -->
-<p><strong>Database</strong></p>
-<div>
-    
+![Ajax](https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white)   
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
-
 <!-- Framework -->
-<p><strong>Framework</strong></p>
+<p><strong>Framework & Server</strong></p>
 <div>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-</div>
-
-<!-- Server -->
-<p><strong>Server</strong></p>
-<div>
-    
 ![Apache](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
-
 <!-- Tools -->
 <p><strong>Tools</strong></p>
 <div>
@@ -76,6 +62,11 @@
 <br />
 <br />
 <img src=https://github.com/Dev-miiing/Dev-miiing/assets/139543251/16bb97e3-d4ef-4ef8-b13f-850f0a392408" width="343" style="margin-right: 5px;" >
+<img src=https://github.com/Dev-miiing/Dev-miiing/assets/139543251/ac13ca56-9f6a-44de-ad56-379318410acc  width="343><br />
+<br />
+  
+---
+
 <br />
 
 ---
