@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/738fdba1-444b-4016-ab8a-9473f7e0c076"  width="130"></td>
-    <td><p> Hi there! I'm Min Seo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"><br />Backend developer:computer: from <b>Seoul</b>, <b>Korea</b> <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="17"/></p> </td>
+    <td><p> Hi there! I'm Min Seo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"><br />Backend developer from <b>Seoul</b>, <b>Korea</b> <img src="https://github.com/Dev-miiing/Dev-miiing/assets/139543251/46e04333-01d0-4ccc-a220-f6fa53376fd7" width="17"/></p> </td>
   </tr>
 </table>
 <br />
