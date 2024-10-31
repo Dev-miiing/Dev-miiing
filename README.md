@@ -46,7 +46,6 @@
 <br />
 <h2 align="left"> Let's get connected ❤️ </h2>
 <a href="https://www.instagram.com/dev_miiing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://open.kakao.com/o/sg0p6Pzf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
 <a href="https://velog.io/@dev_miiing"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> </a>
 <br />
 <br />
